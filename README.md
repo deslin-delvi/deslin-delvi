@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Deslin Delvi
 
-🎓 Final Year CSE Student @ ASIET • 💡  
+🎓 Final Year Computer Science Student @ ASIET • 💡  
 Passionate about Full Stack Development & AI  
 🚀 Turning ideas into real-world projects, always learning along the way
 
@@ -12,7 +12,7 @@ Passionate about Full Stack Development & AI
 - 🧠 Exploring **AI integrations** in web apps
 - 💻 Practicing **Data Structures & Algorithms** in **Python**
 - 🤖 Love working on projects that blend frontend, backend, and AI
-- 🗣️ Ask me about tech, KTU life, or cool project ideas!
+- 💬 Always open to tech talks, project collabs, and new ideas!
 
 ---
 
