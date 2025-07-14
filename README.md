@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Deslin Delvi
 
-🎓 Final Year CSE Student @ KTU • 💡  
+🎓 Final Year CSE Student @ ASIET • 💡  
 Passionate about Full Stack Development & AI  
 🚀 Turning ideas into real-world projects, always learning along the way
 
