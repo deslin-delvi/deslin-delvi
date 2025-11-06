@@ -54,6 +54,14 @@ Passionate about Full Stack Development & AI
 
 ---
 
+## 🛡 Certifications & Badges
+
+<p align="center">
+  <img src="./assets/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" alt="Salesforce Certified Agentforce Specialist" width="160" style="margin:10px;" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deslin-delvi)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black)](mailto:deslindelvi7@gmail.com)
