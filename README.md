@@ -57,8 +57,11 @@ Passionate about Full Stack Development & AI
 ## 🛡 Certifications & Badges
 
 <p align="center">
-  <img src="./assets/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" alt="Salesforce Certified Agentforce Specialist" width="160" style="margin:10px;" />
+  <img src="./assets/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" height="140" style="margin:10px;" />
+  <img src="./assets/Oracle_AI_Foundations.png" height="140" style="margin:10px;" />
+  <img src="./assets/Oracle_Data_Platform.png" height="140" style="margin:10px;" />
 </p>
+
 
 ---
 
