@@ -8,11 +8,10 @@ Passionate about Full Stack Development & AI
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **Full Stack Web Development** (prefer **Python**)
-- 🧠 Exploring **AI integrations** in web apps
-- 💻 Practicing **Data Structures & Algorithms** in **Python**
-- 🤖 Love working on projects that blend frontend, backend, and AI
-- 💬 Always open to tech talks, project collabs, and new ideas!
+- Currently learning the **MERN Stack** and exploring AI-driven management applications.
+- Interested in automation, system design, and integrating AI capabilities into practical software solutions.
+- Love working on projects that blend frontend, backend, and AI
+- Always open to tech talks, project collabs, and new ideas!
 
 ---
 
